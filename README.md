@@ -1,3 +1,5 @@
+# ERA V1 Session 9 Assignment
+
 # Data Exploration
 CIFAR-10 contains 1000 images per class for test, and 5000 images per class for train.<br>
 The classes on CIFAR-10 are Airplane, Automobile, Bird, Cat, Deer, Dog, Frog, Horse, Ship, Truck.<br>
